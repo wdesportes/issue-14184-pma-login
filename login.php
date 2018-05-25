@@ -19,7 +19,7 @@ if (isset($_SESSION["user"])) {
 }
 ?>
     <form method="POST">
-        <input name="user" type="text" /><br />
-        <input name="password" type="text" /><br />
+        <input name="user" type="text" value="williamdes"/><br />
+        <input name="password" type="text" value="test"/><br />
         <input value="Login !" type="submit" />
     </form>
