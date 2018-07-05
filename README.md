@@ -3,3 +3,5 @@ This repository is a demo for the issue #14184 in [phpMyAdmin](https://phpmyadmi
 
 See : https://github.com/phpmyadmin/phpmyadmin/issues/14184
 
+
+z
